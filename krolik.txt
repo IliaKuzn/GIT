@@ -2,4 +2,5 @@ lapki
 nosik
 ushki
 hvostik
-[Ak[glazki
+glazki
+nosik
